@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://salomonw.github.io/compass/email_espanol_restrigido_center.html) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://salomonw.github.io/compass/11.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 
-[editor on GitHub](https://github.com/salomonw/compass/edit/master/index.md)
+[editor on GitHub](11.html)
 
 ## Header 2
 ### Header 3
